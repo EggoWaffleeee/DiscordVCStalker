@@ -1,1 +1,1 @@
-mytoken = "UR TOKEN HERE"
+mytoken = ""
