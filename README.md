@@ -1,3 +1,5 @@
+(DiscordVCStalker)[https://raw.githubusercontent.com/EggoWaffleeee/DiscordVCStalker/refs/heads/main/logo.png]
+
 # DiscordVCStalker
 Sends you a notification when a specific user joins or leaves a voice channel in a server you are also in
 
